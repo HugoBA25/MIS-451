@@ -72,4 +72,4 @@ The following transformations were made to prepare the data for machine learning
 
 ## File Links:
 - [**Week 2 Assignment - Titanic Dataset** (PDF file)](https://github.com/HugoBA25/MIS-451/blob/main/In-class%20coding%20-%20W2.pdf)
-- [**Titanic EDA Notebook** (IPYNB file)](path_to_your_notebook_file)
+- [**Titanic EDA Notebook** (IPYNB file)](https://github.com/HugoBA25/MIS-451/blob/main/MIS%20451%20-%20In%20Class%20Coding%20week%202-%20Colab.mhtml)

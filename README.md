@@ -69,3 +69,7 @@ The following transformations were made to prepare the data for machine learning
 2. Ensure you have all the required libraries installed, such as `pandas`, `seaborn`, `matplotlib`, and `sklearn`.
 3. Run the notebook step-by-step to see the EDA and data transformation steps in action.
 4. In the next step, I will begin building predictive models based on this transformed data.
+
+## File Links:
+- [**Week 2 Assignment - Titanic Dataset** (PDF file)](path_to_your_pdf_file)
+- [**Titanic EDA Notebook** (IPYNB file)](path_to_your_notebook_file)

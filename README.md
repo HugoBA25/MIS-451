@@ -71,5 +71,5 @@ The following transformations were made to prepare the data for machine learning
 4. In the next step, I will begin building predictive models based on this transformed data.
 
 ## File Links:
-- [**Week 2 Assignment - Titanic Dataset** (PDF file)](path_to_your_pdf_file)
+- [**Week 2 Assignment - Titanic Dataset** (PDF file)](https://github.com/HugoBA25/MIS-451/blob/main/In-class%20coding%20-%20W2.pdf)
 - [**Titanic EDA Notebook** (IPYNB file)](path_to_your_notebook_file)
